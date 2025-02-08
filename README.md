@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradhan 
+- 👋 Hi, I’m Bhagwan Shahay
 - 👀 I’m interested in Coding(App Development)
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me gurjarpradhan043@gmail.com
