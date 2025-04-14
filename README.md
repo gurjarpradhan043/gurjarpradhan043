@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhagwan Shahay
 - 👀 I’m interested in Coding(App Development)
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android Development Using Java.
 - 📫 How to reach me
 - Gmail- gurjarpradhan043@gmail.com
 - Linkedin- https://www.linkedin.com/in/bhagwan-shahay-b87888300/
