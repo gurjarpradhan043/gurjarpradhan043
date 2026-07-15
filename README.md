@@ -8,6 +8,7 @@
 ### 📫 Reach me at
 - 📧 Email: gurjarpradhan043@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhagwan-shahay-b87888300/  
-- 🧠 LeetCode: https://leetcode.com/u/Pradhan043/  
-- 🏆 HackerRank: https://www.hackerrank.com/profile/gurjarpradhan043  
+- 🧠 LeetCode: https://leetcode.com/u/Pradhan043/
 - ⌨️ Monkeytype: https://monkeytype.com/profile/Pradhan
+- 🏆 HackerRank: https://www.hackerrank.com/profile/gurjarpradhan043  
+
