@@ -6,7 +6,7 @@
 - 💻 Practicing coding problems and improving logic daily
 
 ### 📫 Reach me at
-- 📧 Email: gurjarpradhan043@gmail.com  
+- 📧 Email: bhagwanshahay.dev@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/bhagwanshahay 
 - 🧠 LeetCode: https://leetcode.com/u/PradhanGOD
 - ⌨️ Monkeytype: https://monkeytype.com/profile/Pradhan
